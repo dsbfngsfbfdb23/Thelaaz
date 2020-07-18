@@ -3,7 +3,7 @@ Online platform to buy or sell vegetables and fruits
 # Thelaaz
 An online platform where you can buy vegetables and fruits anytime from home.
 ## Login credentials:
-Phone Number: 7849890928 OTP: 123456
+Phone Number: 7849890928 OTP: 123456  
 You can't login by your own number because it has not been deployed on play store yet.
 ## Simple things you need to do
 Add items to cart you want to buy and then select the "Prefered ThellaWala" of your area (ratings and prices).
@@ -11,7 +11,7 @@ Add items to cart you want to buy and then select the "Prefered ThellaWala" of y
 Fill your details and verify yourself and let us know what you sell and your prices.
 ## Login credentials:
 Phone Number: 7849890928
-OTP: 123456. 
+OTP: 123456  
 You can't login by your own number because it has not been deployed on play store yet.
 # Screenshots:
 ![alt text](https://github.com/dsbfngsfbfdb23/Thelaaz/blob/master/WhatsApp%20Image%202020-07-17%20at%209.13.47%20PM.jpeg)
